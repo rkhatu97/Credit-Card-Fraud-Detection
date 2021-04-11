@@ -14,8 +14,6 @@
 <p>
     <img src="https://github.com/rkhatu97/Projects_Python/blob/master/Credit_card_fraud_detection/random_forest.png" />
 </p>
-
-
-
-
-
+<p><b>IDE:</b> Jupyter</p>
+<p><b>Packages:</b></p>
+<p>Pandas, hdfs, pyspark, matplotlib, seaborn, simplejson, numpy, sklearn </p>
