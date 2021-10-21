@@ -4,18 +4,16 @@
 <p>Model Used:</p>
 <p>Logistic Regression</p>
 <p>
-    <img src="https://github.com/rkhatu97/Projects_Python/blob/master/Credit_card_fraud_detection/logistic_regression.png" />
+    <img src="https://github.com/rkhatu97/Credit-Card-Fraud-Detection/master/Credit_card_fraud_detection/logistic_regression.png" />
 </p>
 <p>Gradient Boosting</p>
 <p>
-    <img src="https://github.com/rkhatu97/Projects_Python/blob/master/Credit_card_fraud_detection/GBM.png" />
+    <img src="https://github.com/rkhatu97/Credit-Card-Fraud-Detection/blob/master/Credit_card_fraud_detection/GBM.png" />
 </p>
 <p>Random Forest Classifier</p>
 <p>
-    <img src="https://github.com/rkhatu97/Projects_Python/blob/master/Credit_card_fraud_detection/random_forest.png" />
+    <img src="https://github.com/rkhatu97/Credit-Card-Fraud-Detection/blob/master/Credit_card_fraud_detection/random_forest.png" />
 </p>
-
-
-
-
-
+<p><b>IDE:</b> Jupyter</p>
+<p><b>Packages:</b></p>
+<p>Pandas, hdfs, pyspark, matplotlib, seaborn, simplejson, numpy, sklearn </p>
